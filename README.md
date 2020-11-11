@@ -1,9 +1,11 @@
 This takehome challenge for Mentis Technology was drafted in a CodePen originally, which can be found here: https://codepen.io/mdelarosa/pen/QWExaWX
 
 ##Audience
+
 Attorneys and Self-Representing Litigants
 
 ##Provided Mockup
+
 ![Mentis Signup Form](./signup.jpg)
 
 ##Objectives
